@@ -12,8 +12,8 @@ This service is built with FastAPI, a modern Python web framework. It provides a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your/repository.git
-   cd project-root
+   git clone https://github.com/johnPractice/task-management.git
+   cd task-management
    ```
 
 2. Install dependencies:
